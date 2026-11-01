@@ -19,3 +19,14 @@ An interactive Employee Performance Dashboard developed using Microsoft Excel to
 
 ## Image of the Dashboard
 - <a href="https://github.com/SaveenRavindu2001/Data-Analytics-Dashboard1/blob/main/Screenshot%202026-11-01%20091531.png">Dashboard Image</a>
+
+## Process
+
+1)Data Collection – Gather employee performance data.
+2)Data Cleaning – Remove duplicates, blanks, and incorrect values.
+3)Data Transformation – Organize and prepare data for analysis.
+4)Data Analysis – Use Pivot Tables and calculations to analyze performance.
+5)KPI Development – Calculate key performance indicators.
+6)Data Visualization – Create charts and graphs to present insights.
+7)Dashboard Development – Build an interactive dashboard using Excel Slicers.
+8)Insights & Reporting – Identify performance trends and support data-driven decisions.
