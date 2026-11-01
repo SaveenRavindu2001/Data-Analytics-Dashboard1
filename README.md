@@ -30,3 +30,7 @@ An interactive Employee Performance Dashboard developed using Microsoft Excel to
 - Data Visualization – Create charts and graphs to present insights.
 - Dashboard Development – Build an interactive dashboard using Excel Slicers.
 - Insights & Reporting – Identify performance trends and support data-driven decisions.
+
+## Dashboard
+
+<img width="1917" height="1011" alt="Screenshot 2026-11-01 091531" src="https://github.com/user-attachments/assets/1b29f50d-85c4-4cc0-88b0-d042d635eeab" />
