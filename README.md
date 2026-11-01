@@ -16,3 +16,6 @@ An interactive Employee Performance Dashboard developed using Microsoft Excel to
 - What is the average employee achievement?
 - Which region has the highest task completion rate?
 - How does employee productivity change monthly?
+
+## Image of the Dashboard
+- <a href="https://github.com/SaveenRavindu2001/Data-Analytics-Dashboard1/blob/main/Screenshot%202026-11-01%20091531.png">Dashboard Image</a>
