@@ -34,3 +34,7 @@ An interactive Employee Performance Dashboard developed using Microsoft Excel to
 ## Dashboard
 
 <img width="1917" height="1011" alt="Screenshot 2026-11-01 091531" src="https://github.com/user-attachments/assets/1b29f50d-85c4-4cc0-88b0-d042d635eeab" />
+
+## Final conclusion
+
+This project successfully transforms raw employee data into meaningful insights through an interactive Excel dashboard. It helps monitor employee productivity, evaluate performance, identify top performers, and analyze departmental trends. Overall, the dashboard supports effective performance management and data-driven decision-making.
